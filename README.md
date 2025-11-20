@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="./src/about-me.gif" height="40px" alt="Developer gif">
 About me</h1>
-<p align="center">Hello, I'm Steven Tete, a Systems Engineering student from Colombia. I have a strong passion for web development, particularly front-end, although I also have experience with back-end technologies, making me a full-stack developer. I focus on creating beautiful and efficient solutions that enhance user experience and optimize web application performance.</p>
+<p align="center">Hello, I'm Steven Tete, a Systems Engineering student from Colombia. I have a strong passion for web development, particularly front-end, although I also have experience with back-end technologies. I focus on creating beautiful and efficient solutions that enhance user experience and optimize web application performance.</p>
 
 <h1 align="center">
 <img src="./src/skills.gif" height="34px" alt="Terminal gif">
